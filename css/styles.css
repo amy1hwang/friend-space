@@ -1,0 +1,54 @@
+body {
+  font-family: arial;
+}
+span {
+  color: red;
+}
+
+img {
+  object-fit: cover;
+  width:200px;
+  height:200px;
+  border: 2px solid blue;
+}
+
+div {
+  font-size: 18px;
+  text-align: center;
+  float: left;
+  margin: 0 40px auto 40px;
+}
+
+h1 {
+  background-color: #FFC886;
+  padding: 10px;
+  color: #DD8926;
+}
+
+h2 {
+  margin-bottom: 0px
+}
+
+h4 {
+  color: blue;
+  margin-bottom: 10px
+}
+
+h5 {
+  color: green;
+  margin-top: 0px
+}
+
+.five {
+  clear: left;
+}
+
+.view-all {
+  color: red;
+  position: absolute;
+  top: 700px;
+  left: 850px;
+  padding-right: 50px;
+  display: block;
+  padding-top: 70px;
+}
